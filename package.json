@@ -1,5 +1,5 @@
 {
-  "name": "pnpmworkspacetest",
+  "name": "pnpm-workspace-use-node-version-bug",
   "version": "1.0.0",
   "devDependencies": {
     "nx": "^16.7.0"
