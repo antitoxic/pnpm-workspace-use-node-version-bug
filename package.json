@@ -1,0 +1,7 @@
+{
+  "name": "pnpmworkspacetest",
+  "version": "1.0.0",
+  "devDependencies": {
+    "nx": "^16.7.0"
+  }
+}
